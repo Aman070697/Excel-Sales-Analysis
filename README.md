@@ -4,31 +4,19 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/Aman070697/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+   tliQ Hardware, a major player in the hardware industry, is looking to boost sales and improve profit margins.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Aman070697/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+To tackle this challenge, I’ve rolled up my sleeves and dived into a massive dataset—over half a million sales records—to uncover valuable insights. These insights will empower AtliQ Hardware to make smarter decisions and focus on key metrics that drive their success, such as sales volume and profitability.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+Here’s what I’ve done:
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+✅ I conducted comprehensive ETL (Extract, Transform, Load) processes to organize and clean the sales data.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+✅ I created detailed Profit and Loss (P&L) reports for various product categories.
 
+✅ Additionally, I generated reports on customer net sales and compared market performance against targets. I also established data model relationships and utilized DAX to calculate relevant metrics.
 
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Aman070697/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Aman070697/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Aman070697/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
+This work sets the stage for AtliQ to make informed decisions and enhance their overall performance.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
